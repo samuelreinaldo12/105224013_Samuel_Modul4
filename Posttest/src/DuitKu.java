@@ -1,6 +1,5 @@
-import java.util.Scanner; 
+import java.util.Scanner;
 
-// Blueprint Sistem DuitKu
 class DuitKu {
     String namaLengkap;
     String nomorPonsel;
